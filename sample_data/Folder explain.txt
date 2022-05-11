@@ -6,3 +6,5 @@ The "Features CSV" folder includes raw CSV data of gold price forecast features 
 The "Orginal Data of Gold Price" is processed data of files from folder "Features CSV".
 
 The "Orginal Data of census income" is the process data from dataset: https://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)
+
+The python jupyter notebook includes the draft code used to generate "Orginal Data of Gold Price" and "Orginal Data of census income".
