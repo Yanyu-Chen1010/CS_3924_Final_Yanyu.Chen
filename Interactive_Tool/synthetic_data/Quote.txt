@@ -1,0 +1,5 @@
+This folder "synthetic_data" is the direct copy from Barr's work: 
+
+"Brian Barr and Ke Xu and Claudio Silva and Enrico Bertini and Robert Reilly and  C. Bayan Bruss and Jason D. Wittenbach"
+
+Git link: https://github.com/capitalone/synthetic-data
